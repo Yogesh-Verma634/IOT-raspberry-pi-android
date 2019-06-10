@@ -11,14 +11,6 @@ import java.io.ObjectOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- *
- * @author Taha Emara 
- * Website: http://www.emaraic.com 
- * Email : taha@emaraic.com
- * Created on: August 16, 2016
- *
- */
 public class Server {
 
     private ServerSocket server;
